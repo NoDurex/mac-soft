@@ -30,3 +30,10 @@ My biggest draw is that it can show folder diffs too, which other ones for OS X 
 * [Alfred](http://www.alfredapp.com/)Best quick launch app ever.
 * [Pixelmator](http://www.pixelmator.com/) Quick, easy to use image editor. Not a photoshop replacement but I use it a lot for quick stuff and optimizing.
 * [ImageOptim](http://imageoptim.com/) Best image optimizer i've seen for any system. No idea how it works so well.
+
+==============
+
+* [XtraFinder](http://www.trankynam.com/xtrafinder/) OSX 控制桌面的插件，相当好用。OSXer 必装。
+* [Dukto](https://code.google.com/p/dukto/)  A simple, fast and multi-platform file transfer tool for LAN users
+* [SourceTree](http://www.sourcetreeapp.com/) A free Git & Mercurial client. 界面甩gitk这些渣渣无数条街。
+
