@@ -21,13 +21,14 @@ I dislike that its written in Java because it can be a hair chunky on large file
 My biggest draw is that it can show folder diffs too, which other ones for OS X cannot seem to do.
 * [Little Snitch](http://www.obdev.at/products/littlesnitch/index.html) Network monitor. Might seem annoying at first, but I hate stuff that constantly phones home. Once you train it a bit you don't notice it much.
 * [Mou.app](http://mouapp.com/) Markdown editor. I am writing this in it. So awesome.
+* [haroopad](http://pad.haroopress.com/) 虽然他是棒子写得，但是真的，比Mou好点。Markdown编辑器
 * [Patterns](http://itunes.apple.com/us/app/patterns-the-regex-app/id429449079?mt=12) Visual regex tester. Same guy who wrote Coderunner. Super handy.
 * [Skim]() Better PDF preview app that can handle REALLY large files. OS X's built in preview is pretty great, but Skim can handle 1+gig PDFs and not barf.
 * [Transmit](http://panic.com/transmit/) Hands down the best FTP app i've ever used. Nothing compares to it. Peroiod.
 * [Yemuzip](http://www.yellowmug.com/yemuzip/) For some fucking reason OS X continues to include weird files with what it zips. This is a drag-to-icon solution that removes them so you can distribute zip files to customers without worry.
 * [VirtualBox](https://www.virtualbox.org/) Cross platform Virtual Machine. Free and works very well and snappy.
 * [VMWare Fusion](http://www.vmware.com/products/fusion/overview.html) A money cost VM thats a bit more systme integrated. I use it and enjoy it but its performance on an HDD is not as good as it is on SSD.
-* [Alfred](http://www.alfredapp.com/)Best quick launch app ever.
+* [Alfred](http://www.alfredapp.com/)Best quick launch app ever. In particular, the second one whit power.
 * [Pixelmator](http://www.pixelmator.com/) Quick, easy to use image editor. Not a photoshop replacement but I use it a lot for quick stuff and optimizing.
 * [ImageOptim](http://imageoptim.com/) Best image optimizer i've seen for any system. No idea how it works so well.
 
