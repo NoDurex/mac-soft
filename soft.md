@@ -34,7 +34,7 @@ My biggest draw is that it can show folder diffs too, which other ones for OS X 
 
 ==============
 
-* [XtraFinder](http://www.trankynam.com/xtrafinder/) OSX 控制桌面的插件，相当好用。OSXer 必装。
+* [XtraFinder](http://www.trankynam.com/xtrafinder/) OSX 控制桌面的插件，相当好用。OSXer 必装。 目前不支持10.9
 * [Dukto](https://code.google.com/p/dukto/)  A simple, fast and multi-platform file transfer tool for LAN users
 * [SourceTree](http://www.sourcetreeapp.com/) A free Git & Mercurial client. 界面甩gitk这些渣渣无数条街。
 
