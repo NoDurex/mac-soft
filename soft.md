@@ -41,4 +41,4 @@ My biggest draw is that it can show folder diffs too, which other ones for OS X 
 * [DragonDrop](http://shinyplasticbag.com/dragondrop/) 小工具，拖拉文件的临时保存空间，相当好用。
 * [Robomongo](http://robomongo.org/) client for MongoDB.
 * [Rdm](http://redisdesktop.com/) client for redis.
-
+* [flux](https://justgetflux.com/) software to make your eyes better.
