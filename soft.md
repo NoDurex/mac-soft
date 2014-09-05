@@ -35,6 +35,7 @@ My biggest draw is that it can show folder diffs too, which other ones for OS X 
 ==============
 
 * [XtraFinder](http://www.trankynam.com/xtrafinder/) OSX 控制桌面的插件，相当好用。OSXer 必装。 目前已支持10.10
+* [kitematic](https://kitematic.com/) Docker util.
 * [Dukto](https://code.google.com/p/dukto/)  A simple, fast and multi-platform file transfer tool for LAN users
 * [SourceTree](http://www.sourcetreeapp.com/) A free Git & Mercurial client. 界面甩gitk这些渣渣无数条街。
 * [Trim Enabler](http://www.groths.org/software/trimenabler/) Trim is must-have feature for most Solid State Drives.It increases data writing speed as well as the lifetime of the SSD. 
