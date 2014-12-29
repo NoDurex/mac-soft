@@ -33,7 +33,7 @@ My biggest draw is that it can show folder diffs too, which other ones for OS X 
 * [ImageOptim](http://imageoptim.com/) Best image optimizer i've seen for any system. No idea how it works so well.
 * [myhack](http://myhack.sojugarden.com/)This guide is not intended as an all-inclusive how-to for running OS X on your PC. It focuses on how to get up and running with OS X quickly and easily utilizing the myHack application.
 * [atom](https://atom.io/) A hackable text editor for the 21st Century.
-* 
+
 ==============
 
 * [XtraFinder](http://www.trankynam.com/xtrafinder/) OSX 控制桌面的插件，相当好用。OSXer 必装。 目前已支持10.10
@@ -45,3 +45,4 @@ My biggest draw is that it can show folder diffs too, which other ones for OS X 
 * [Robomongo](http://robomongo.org/) client for MongoDB.
 * [Rdm](http://redisdesktop.com/) client for redis.
 * [flux](https://justgetflux.com/) software to make your eyes better.
+* [BetterTouchTool](http://www.boastr.net/) 优化macbook触控板操作
